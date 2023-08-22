@@ -1,8 +1,3 @@
-# COMP15212-exercises-22-23
+# Caching eviction techniques implementation
 
-Exercises for COMP15212.
-
-In the directory ```caching``` you will find instructions and code
-relating to the summative exercise.
-
-The instructions for the exercise are contained in ```instructions.md```.
+implemented the following caching eviction techniques in Python: LRU, Cyclic, and Random.
